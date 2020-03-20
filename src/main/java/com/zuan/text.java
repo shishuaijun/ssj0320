@@ -6,6 +6,7 @@ public class text {
         System.out.println("11212");
         System.out.println("232323");
         System.out.println("2323233333");
+        System.out.println("222");
     }
 
 }
